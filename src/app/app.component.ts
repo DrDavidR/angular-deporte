@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'deportes-1';
+  items: any[] = []; // Agrega la declaración de la propiedad 'items'
 }

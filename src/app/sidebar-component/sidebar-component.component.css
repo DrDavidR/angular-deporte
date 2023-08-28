@@ -1,0 +1,11 @@
+/* sidebar-component.component.css */
+#sidebar {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 250px;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
